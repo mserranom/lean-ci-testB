@@ -1,4 +1,4 @@
 {
-  "dependencies" : ["mserranom/lean-ci-testA"]
-  
+  "dependencies" : ["mserranom/lean-ci-testA"],
+  "command" : "npm install --unsafe-perm"
 }
